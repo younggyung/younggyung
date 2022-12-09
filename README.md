@@ -2,7 +2,8 @@
 
 ![img](IMG_8140.jpg)
 
-                   안녕하세요
+열정은 강도 아니라 지속성!
+
 ## __I am leaning . . .__
 
 ### contact
