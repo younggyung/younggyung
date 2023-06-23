@@ -1,6 +1,6 @@
 # Bonjour 안녕하세요!
 
-![img](IMG_8140.jpg){: width="50%" height="50%"}
+<img src="/IMG_8140.jpg" width="50%" height="50%">
 
 열정은 강도가 아닌 지속성
 
